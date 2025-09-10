@@ -1,0 +1,1 @@
+QAI_Enterprise_Framework is a living framework and is customised to meet many QAI use cases and projects allowing for best reuse of the framework and tools in end to end life cycle management of QAI products 
