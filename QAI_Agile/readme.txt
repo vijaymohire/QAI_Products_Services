@@ -1,0 +1,1 @@
+QAI_APO_Master_Framework is the framework that offers the integrated product ownership allowing for various types of programs to be managed for various projects that can be scaled based on the required agile project model, methodology and client needs 
