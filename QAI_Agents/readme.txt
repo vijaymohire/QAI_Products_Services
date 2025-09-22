@@ -1,0 +1,1 @@
+QAI Agents framework offers unique blend of the quantum and AI paradigms in helping the optimisation and increasing the speed of the computations allowing for a rapid outcome allowing researchers and companies in introducing newer products  
