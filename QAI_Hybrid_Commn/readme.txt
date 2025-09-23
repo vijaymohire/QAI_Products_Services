@@ -1,0 +1,1 @@
+QAI_Hybrid_Commn offers an unique blend of operating teresstrial and deep space systems using classical and quantum QFT and quantum information theories. This is an integrated product that serves the base for classical RAN and deep space communication that need relativity. 
