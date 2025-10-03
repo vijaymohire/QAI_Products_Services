@@ -1,0 +1,1 @@
+QAI Client Adoption Tool is our home grown tool for various client related onboarding of the IT assets, transformation, mapping to end states, configuration DB mgmt,  and migrating to the newer enterprise state
